@@ -6,7 +6,7 @@ Hey, call me Resi! I'm a front-end developer currently working at [Kata.ai](http
 
 ### Links
 
-- **[Website](https://resir014.xyz/)
+- **[Website](https://resir014.xyz/)**
 - **[Twitter](https://twitter.com/resir014)**
 - **[Twitch](https://www.twitch.tv/resir014)**
 - **[Discord](https://discord.gg/ws3P4wf)**
