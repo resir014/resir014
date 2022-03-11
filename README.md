@@ -2,7 +2,7 @@
 
 **Resi Respati | he/him | Jakarta, Indonesia**
 
-Hey, call me Resi! I'm a front-end developer currently working at [Kata.ai](https://kata.ai/), helping to blur the line between high-performance engineering and good design. I'm also an affiliated [Twitch](https://www.twitch.tv/resir014) streamer and I livestream web development and a variety of video games.
+Hey, call me Resi! I'm a front-end developer helping to blur the line between high-performance engineering and good design. I'm also an affiliated [Twitch](https://www.twitch.tv/resir014) streamer and I livestream web development and a variety of video games.
 
 Nice to meet you!
 
